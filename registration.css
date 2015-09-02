@@ -1,0 +1,81 @@
+
+
+#wrapper{
+
+        background-image: url("http://ericzbd.com/php/student/Tropical-Beach-Paradise.jpg"); text-align: center; border-radius: 25em; color: white;
+    background-color: lightskyblue; min-height: 100%;
+    margin-bottom: -330px;
+    position: relative;
+
+}
+
+form {  text-align: center; display: inline-block; background-color: lightgreen; color: black;     border-radius:8px;
+
+    padding : 20px;}
+html, body { background-color: lightblue; font-weight: bold; text-align: center; height: 100% }
+label { width: 4em;  display: block; font-family: Arial, sans-serif;  }
+input { color: #781351; background: lightyellow; float: right; }
+
+#courseDisplay {
+
+    border-radius:5px;
+    border: 20px solid #999;
+    background-color: lightyellow;
+    color: black;
+    width: 320px; padding: 30px; margin-bottom: 10px;  box-shadow:0 0 10px #999;
+
+}
+
+fieldset
+{
+    border-radius:10px;
+	border: 15px solid #999;
+    background-color: deepskyblue;
+    color: black;
+    width: 320px; padding: 30px; margin-bottom: 10px;  box-shadow:0 0 10px #999;
+
+
+}
+
+
+
+legend
+{
+    color: white;
+    padding: 10px;
+    background-color: green;
+    border: 1px solid #781351;
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: bold;
+    border-radius: 5em;
+
+}
+
+.clearfooter {
+
+    height: 330px;
+    clear: both;
+}
+
+#display {
+	border-radius:10px;
+	border: 15px solid #999;
+    background-color: lightgreen;
+    color: black;
+    width: 320px; padding: 30px; margin-bottom: 10px;  box-shadow:0 0 10px #999;
+
+}
+
+
+#footer {
+
+    color: #7D0032; margin-right: auto; margin-left: auto;
+    font-style: oblique; clear: both; border-radius: 20em;
+    position: absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+    background:#6cf;
+    text-align: center;
+
+}
